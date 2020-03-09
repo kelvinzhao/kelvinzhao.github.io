@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kelvinzhao.github.io/post/my-first-post/</loc>
+    <lastmod>2020-03-09T22:19:45+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://kelvinzhao.github.io/post/jane-theme-preview.zh-cn/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,13 +45,6 @@
   
   <url>
     <loc>http://kelvinzhao.github.io/categories/index/</loc>
-    <lastmod>2020-03-09T22:19:45+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://kelvinzhao.github.io/post/my-first-post/</loc>
     <lastmod>2020-03-09T22:19:45+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

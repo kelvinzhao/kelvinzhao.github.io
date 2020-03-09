@@ -12,6 +12,18 @@
     
     
     <item>
+      <title>My First Post</title>
+      <link>http://kelvinzhao.github.io/post/my-first-post/</link>
+      <pubDate>Mon, 09 Mar 2020 22:19:45 +0800</pubDate>
+      
+      <guid>http://kelvinzhao.github.io/post/my-first-post/</guid>
+      
+        <description>&lt;p&gt;This is my first post from Beijing .&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>Jane 主题预览</title>
       <link>http://kelvinzhao.github.io/post/jane-theme-preview.zh-cn/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
@@ -269,18 +281,6 @@ And then define the link:
 &lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://kelvinzhao.github.io/post/my-first-post/</link>
-      <pubDate>Mon, 09 Mar 2020 22:19:45 +0800</pubDate>
-      
-      <guid>http://kelvinzhao.github.io/post/my-first-post/</guid>
-      
-        <description>&lt;p&gt;This is my first post from Beijing .&lt;/p&gt;
 </description>
       
     </item>
