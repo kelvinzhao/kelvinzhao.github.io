@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://kelvinzhao.github.io/sitemap.xml
+Sitemap: https://kelvinzhao.me/sitemap.xml

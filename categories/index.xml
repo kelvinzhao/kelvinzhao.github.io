@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kayzii</title>
-    <link>http://kelvinzhao.github.io/categories/</link>
+    <link>https://kelvinzhao.me/categories/</link>
     <description>Recent content in Categories on Kayzii</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 09 Mar 2020 22:19:45 +0800</lastBuildDate>
     
-	<atom:link href="http://kelvinzhao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kelvinzhao.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>index</title>
-      <link>http://kelvinzhao.github.io/categories/index/</link>
+      <link>https://kelvinzhao.me/categories/index/</link>
       <pubDate>Mon, 09 Mar 2020 22:19:45 +0800</pubDate>
       
-      <guid>http://kelvinzhao.github.io/categories/index/</guid>
+      <guid>https://kelvinzhao.me/categories/index/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>http://kelvinzhao.github.io/categories/test/</link>
+      <link>https://kelvinzhao.me/categories/test/</link>
       <pubDate>Mon, 09 Mar 2020 22:19:45 +0800</pubDate>
       
-      <guid>http://kelvinzhao.github.io/categories/test/</guid>
+      <guid>https://kelvinzhao.me/categories/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docs</title>
-      <link>http://kelvinzhao.github.io/categories/docs/</link>
+      <link>https://kelvinzhao.me/categories/docs/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
-      <guid>http://kelvinzhao.github.io/categories/docs/</guid>
+      <guid>https://kelvinzhao.me/categories/docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math</title>
-      <link>http://kelvinzhao.github.io/categories/math/</link>
+      <link>https://kelvinzhao.me/categories/math/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
-      <guid>http://kelvinzhao.github.io/categories/math/</guid>
+      <guid>https://kelvinzhao.me/categories/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://kelvinzhao.github.io/categories/shortcodes/</link>
+      <link>https://kelvinzhao.me/categories/shortcodes/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://kelvinzhao.github.io/categories/shortcodes/</guid>
+      <guid>https://kelvinzhao.me/categories/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
-      <link>http://kelvinzhao.github.io/categories/english/</link>
+      <link>https://kelvinzhao.me/categories/english/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://kelvinzhao.github.io/categories/english/</guid>
+      <guid>https://kelvinzhao.me/categories/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://kelvinzhao.github.io/categories/development/</link>
+      <link>https://kelvinzhao.me/categories/development/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://kelvinzhao.github.io/categories/development/</guid>
+      <guid>https://kelvinzhao.me/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http://kelvinzhao.github.io/categories/golang/</link>
+      <link>https://kelvinzhao.me/categories/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://kelvinzhao.github.io/categories/golang/</guid>
+      <guid>https://kelvinzhao.me/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://kelvinzhao.github.io/categories/syntax-highlighting/</link>
+      <link>https://kelvinzhao.me/categories/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>http://kelvinzhao.github.io/categories/syntax-highlighting/</guid>
+      <guid>https://kelvinzhao.me/categories/syntax-highlighting/</guid>
       <description></description>
     </item>
     
