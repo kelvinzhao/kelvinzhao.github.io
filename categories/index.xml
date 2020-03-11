@@ -6,89 +6,17 @@
     <description>Recent content in Categories on Kayzii</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2020 22:19:45 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 21:02:16 +0800</lastBuildDate>
     
 	<atom:link href="https://kelvinzhao.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>index</title>
-      <link>https://kelvinzhao.me/categories/index/</link>
-      <pubDate>Mon, 09 Mar 2020 22:19:45 +0800</pubDate>
+      <title>健康</title>
+      <link>https://kelvinzhao.me/categories/%E5%81%A5%E5%BA%B7/</link>
+      <pubDate>Wed, 11 Mar 2020 21:02:16 +0800</pubDate>
       
-      <guid>https://kelvinzhao.me/categories/index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://kelvinzhao.me/categories/test/</link>
-      <pubDate>Mon, 09 Mar 2020 22:19:45 +0800</pubDate>
-      
-      <guid>https://kelvinzhao.me/categories/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>docs</title>
-      <link>https://kelvinzhao.me/categories/docs/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>https://kelvinzhao.me/categories/docs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>https://kelvinzhao.me/categories/math/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>https://kelvinzhao.me/categories/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://kelvinzhao.me/categories/shortcodes/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://kelvinzhao.me/categories/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>https://kelvinzhao.me/categories/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://kelvinzhao.me/categories/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>https://kelvinzhao.me/categories/development/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kelvinzhao.me/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://kelvinzhao.me/categories/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kelvinzhao.me/categories/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>https://kelvinzhao.me/categories/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
-      
-      <guid>https://kelvinzhao.me/categories/syntax-highlighting/</guid>
+      <guid>https://kelvinzhao.me/categories/%E5%81%A5%E5%BA%B7/</guid>
       <description></description>
     </item>
     

@@ -2,351 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kelvinzhao.me/post/my-first-post/</loc>
-    <lastmod>2020-03-09T22:19:45+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/jane-theme-preview.zh-cn/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/jane-theme-preview/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://kelvinzhao.me/about/</loc>
-    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kelvinzhao.me/categories/</loc>
-    <lastmod>2020-03-09T22:19:45+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/english/</loc>
-    <lastmod>2020-03-09T22:19:45+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/categories/index/</loc>
-    <lastmod>2020-03-09T22:19:45+08:00</lastmod>
+    <lastmod>2020-03-11T21:02:16+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kelvinzhao.me/post/</loc>
-    <lastmod>2020-03-09T22:19:45+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/tag-2/</loc>
-    <lastmod>2020-03-09T22:19:45+08:00</lastmod>
+    <lastmod>2020-03-11T21:02:16+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kelvinzhao.me/tags/</loc>
-    <lastmod>2020-03-09T22:19:45+08:00</lastmod>
+    <lastmod>2020-03-11T21:02:16+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kelvinzhao.me/categories/test/</loc>
-    <lastmod>2020-03-09T22:19:45+08:00</lastmod>
+    <loc>https://kelvinzhao.me/tags/mindset/</loc>
+    <lastmod>2020-03-11T21:02:16+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kelvinzhao.me/tags/welcome/</loc>
-    <lastmod>2020-03-09T22:19:45+08:00</lastmod>
+    <loc>https://kelvinzhao.me/categories/%E5%81%A5%E5%BA%B7/</loc>
+    <lastmod>2020-03-11T21:02:16+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kelvinzhao.me/categories/docs/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
+    <loc>https://kelvinzhao.me/post/201903-how-to-deal-heathy-advice/</loc>
+    <lastmod>2020-03-11T21:02:16+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kelvinzhao.me/tags/math/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/categories/math/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/math-preview/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/preview/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/tag-6/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/shortcodes/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/categories/shortcodes/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/shortcodes-preview/</loc>
-    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/image/</loc>
-    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/image-preview/</loc>
-    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/shortcode-notice/</loc>
-    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/tag-7/</loc>
-    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/footnote/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/doc-footnote-preview/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/markdown/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/tag-11/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/categories/english/</loc>
-    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/english-preview/</loc>
-    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/this-is-a-very-long-title/</loc>
-    <lastmod>2017-08-30T15:43:48+08:00</lastmod>
+    <loc>https://kelvinzhao.me/tags/%E5%BB%BA%E8%AE%AE/</loc>
+    <lastmod>2020-03-11T21:02:16+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kelvinzhao.me/</loc>
-    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/categories/development/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/development/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/go/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/golang/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/categories/golang/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/templates/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/themes/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/syntax-highlighting/</loc>
-    <lastmod>2017-08-30T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/categories/syntax-highlighting/</loc>
-    <lastmod>2017-08-30T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/syntax-highlighting/</loc>
-    <lastmod>2017-08-30T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/tag-5/</loc>
-    <lastmod>2017-08-30T16:01:23+08:00</lastmod>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
