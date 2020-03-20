@@ -9,6 +9,20 @@
   </url>
   
   <url>
+    <loc>https://kelvinzhao.me/post/</loc>
+    <lastmod>2020-03-21T06:50:17+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinzhao.me/post/2020031906-what-do-i-write-when-nothing-to-write/</loc>
+    <lastmod>2020-03-21T06:50:17+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://kelvinzhao.me/categories/</loc>
     <lastmod>2020-03-17T06:02:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -17,13 +31,6 @@
   
   <url>
     <loc>https://kelvinzhao.me/tags/howto/</loc>
-    <lastmod>2020-03-17T06:02:24+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/post/</loc>
     <lastmod>2020-03-17T06:02:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
