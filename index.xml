@@ -28,6 +28,23 @@
     </item>
     
     <item>
+      <title>Github pages 疑似遭遇中间人攻击</title>
+      <link>https://kelvinzhao.me/post/2020032619-github-ssl/</link>
+      <pubDate>Thu, 26 Mar 2020 19:15:02 +0800</pubDate>
+      
+      <guid>https://kelvinzhao.me/post/2020032619-github-ssl/</guid>
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/github_https_v2ex.png&#34; alt=&#34;SSL无效证书&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;今天突然发现Chrome无法浏览此 Blog 了，发现证书出了问题，如上图一样。刚开始自己的 Blog 生涯就出现这个事件真是不可思议呀～赶紧去看了一下 xianmin.org ，结果和我一样，google了一下，在v2ex上已经看到有人讨论了。&lt;/p&gt;
+
+&lt;p&gt;什么原因暂不清楚，只是知道这个QQ邮箱出名了，346608453@qq.com 。我这个技术盲也不懂得这种攻击是怎么进行的，居然造成这么大面积的影响，到现在应该有 5 个小时了，还没有恢复。于是根据v2ex上其他用户的提示，自己搜索了用 CloudFlare 解析域名的教程，实践之后终于“复活”了。&lt;/p&gt;
+
+&lt;p&gt;如果有后续报道，再更新于此吧。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>没有什么可写的时候我写什么</title>
       <link>https://kelvinzhao.me/post/2020031906-what-do-i-write-when-nothing-to-write/</link>
       <pubDate>Thu, 19 Mar 2020 06:29:17 +0800</pubDate>
