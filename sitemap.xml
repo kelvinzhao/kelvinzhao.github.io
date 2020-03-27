@@ -10,27 +10,48 @@
   
   <url>
     <loc>https://kelvinzhao.me/categories/</loc>
-    <lastmod>2020-03-26T19:15:02+08:00</lastmod>
+    <lastmod>2020-03-27T19:17:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kelvinzhao.me/post/2020032619-github-ssl/</loc>
-    <lastmod>2020-03-26T19:15:02+08:00</lastmod>
+    <loc>https://kelvinzhao.me/tags/howto/</loc>
+    <lastmod>2020-03-27T19:17:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kelvinzhao.me/post/</loc>
-    <lastmod>2020-03-26T19:15:02+08:00</lastmod>
+    <lastmod>2020-03-27T19:17:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kelvinzhao.me/tags/</loc>
+    <lastmod>2020-03-27T19:17:06+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinzhao.me/categories/%E5%81%A5%E5%BA%B7/</loc>
+    <lastmod>2020-03-27T19:17:06+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinzhao.me/post/2020032206-my-morning-routine/</loc>
+    <lastmod>2020-03-27T19:17:06+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinzhao.me/post/2020032619-github-ssl/</loc>
     <lastmod>2020-03-26T19:15:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -67,13 +88,6 @@
   <url>
     <loc>https://kelvinzhao.me/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2020-03-21T06:50:17+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/tags/howto/</loc>
-    <lastmod>2020-03-17T06:02:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -143,13 +157,6 @@
   
   <url>
     <loc>https://kelvinzhao.me/tags/mindset/</loc>
-    <lastmod>2020-03-11T21:02:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/categories/%E5%81%A5%E5%BA%B7/</loc>
     <lastmod>2020-03-11T21:02:16+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
