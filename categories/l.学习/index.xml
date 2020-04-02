@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L.学习 on KZ的个人有志</title>
+    <link>https://kelvinzhao.me/categories/l.%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in L.学习 on KZ的个人有志</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 03 Apr 2020 06:22:18 +0800</lastBuildDate>
+    
+	<atom:link href="https://kelvinzhao.me/categories/l.%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>近期更新以及开启个人项目——ThinBooks</title>
+      <link>https://kelvinzhao.me/post/2020040306-updates-and-thinbooks/</link>
+      <pubDate>Fri, 03 Apr 2020 06:22:18 +0800</pubDate>
+      
+      <guid>https://kelvinzhao.me/post/2020040306-updates-and-thinbooks/</guid>
+      <description>&lt;p&gt;先说近况：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Github的事儿，&lt;a href=&#34;https://kelvinzhao.me/post/2020032619-github-ssl/&#34;&gt;见这里&lt;/a&gt;。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;在家隔离的3月份过去了，review在下面。&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;再说 ThinBooks：&lt;/p&gt;
+
+&lt;p&gt;ThinBooks是我建立的 ”瘦书“ 计划（我的第一个「开源」项目，😄），将会在Github上发布，地址是：&lt;a href=&#34;https://github.com/kelvinzhao/Thinbooks&#34;&gt;https://github.com/kelvinzhao/Thinbooks&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;README.md&lt;/p&gt;
+
+&lt;p&gt;何谓 ”瘦书“ ？ 与 “拆书” 有何不同？&lt;/p&gt;
+
+&lt;p&gt;现在的书籍动辄几百页，但其中的干货也就三分之一强，多数文字都是用处不多的铺垫、案例和一些基础知识，也许作者希望做到老少皆宜吧，但读这样的书会处于一种矛盾之中，即：通读是浪费 vs. 略读怕遗漏。&lt;/p&gt;
+
+&lt;p&gt;本项目发起初衷主要在于我读书的感觉，另外也看到Amazon上也会售卖Summary之类的出版物，因此我打算将我读过的学科类的书用 Mark down 方式重新进行编辑，去除过场铺垫、无滋味的案例，精简基础知识，突出主题框架，争取在完整呈现作者意图的前提下让书瘦身 &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; ，从而达到让读者节省阅读时间，加快学习效率。&lt;/p&gt;
+
+&lt;p&gt;与 ”拆书“ 不同，本项目目的在于精简书籍，并不对书籍内容进行分析和讲解（最多加一些少量注解），因此我希望成果出品速度能和我的阅读速度保持一致，即每周一本书。&lt;/p&gt;
+
+&lt;p&gt;但受本人自身能力和阅历限制，瘦书计划中的成果将呈现不可避免的个人偏好，如您发现任何错误，请留言指正。&lt;/p&gt;
+
+&lt;p&gt;另外本人是技术盲、Github Newbie，本项目如何更好的运作，是否商用，采取什么协议之类的，本人通通不懂，所以留待我慢慢研究，反正我觉得还是自己先慢慢搞起来再说。或者您有更好的建议，可以留言或者 Email 给我 kzhao@kelvinzhao.me 。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
