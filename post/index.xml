@@ -6,10 +6,31 @@
     <description>Recent content in Posts on KZ的个人有志</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Apr 2020 19:30:11 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2020 06:44:10 +0800</lastBuildDate>
     
 	<atom:link href="https://kelvinzhao.me/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>【读书】好好思考</title>
+      <link>https://kelvinzhao.me/post/2020040606-the-art-of-thinking/</link>
+      <pubDate>Mon, 06 Apr 2020 06:44:10 +0800</pubDate>
+      
+      <guid>https://kelvinzhao.me/post/2020040606-the-art-of-thinking/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/the-art-of-thinking-cover.jpg&#34; alt=&#34;好好思考&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Author: 成甲&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&#34;https://book.douban.com/subject/34863179/&#34;&gt;https://book.douban.com/subject/34863179/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Publisher: 北京联合出版公司&lt;/p&gt;
+
+&lt;p&gt;Publishing/Release Date: Oct 01, 2019&lt;/p&gt;
+
+&lt;p&gt;Reading period: Mar 31, 2020 → Apr 05, 2020&lt;/p&gt;
+
+&lt;p&gt;Score /5: ⭐️⭐️⭐️⭐️&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>第一本Thinbook发布！</title>
@@ -38,23 +59,7 @@
 
 &lt;p&gt;再说 ThinBooks：&lt;/p&gt;
 
-&lt;p&gt;ThinBooks是我建立的 ”瘦书“ 计划（我的第一个「开源」项目，😄），将会在Github上发布，地址是：&lt;a href=&#34;https://github.com/kelvinzhao/Thinbooks&#34;&gt;https://github.com/kelvinzhao/Thinbooks&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;README.md&lt;/p&gt;
-
-&lt;p&gt;何谓 ”瘦书“ ？ 与 “拆书” 有何不同？&lt;/p&gt;
-
-&lt;p&gt;现在的书籍动辄几百页，但其中的干货也就三分之一强，多数文字都是用处不多的铺垫、案例和一些基础知识，也许作者希望做到老少皆宜吧，但读这样的书会处于一种矛盾之中，即：通读是浪费 vs. 略读怕遗漏。&lt;/p&gt;
-
-&lt;p&gt;本项目发起初衷主要在于我读书的感觉，另外也看到Amazon上也会售卖Summary之类的出版物，因此我打算将我读过的学科类的书用 Mark down 方式重新进行编辑，去除过场铺垫、无滋味的案例，精简基础知识，突出主题框架，争取在完整呈现作者意图的前提下让书瘦身 &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; ，从而达到让读者节省阅读时间，加快学习效率。&lt;/p&gt;
-
-&lt;p&gt;与 ”拆书“ 不同，本项目目的在于精简书籍，并不对书籍内容进行分析和讲解（最多加一些少量注解），因此我希望成果出品速度能和我的阅读速度保持一致，即每周一本书。&lt;/p&gt;
-
-&lt;p&gt;但受本人自身能力和阅历限制，瘦书计划中的成果将呈现不可避免的个人偏好，如您发现任何错误，请留言指正。&lt;/p&gt;
-
-&lt;p&gt;另外本人是技术盲、Github Newbie，本项目如何更好的运作，是否商用，采取什么协议之类的，本人通通不懂，所以留待我慢慢研究，反正我觉得还是自己先慢慢搞起来再说。或者您有更好的建议，可以留言或者 Email 给我 kzhao@kelvinzhao.me 。&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+&lt;p&gt;ThinBooks是我建立的 ”瘦书“ 计划（我的第一个「开源」项目，😄），将会在Github上发布，地址是：&lt;a href=&#34;https://github.com/kelvinzhao/Thinbooks&#34;&gt;https://github.com/kelvinzhao/Thinbooks&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
