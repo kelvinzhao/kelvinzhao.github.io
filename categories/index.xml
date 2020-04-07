@@ -6,10 +6,19 @@
     <description>Recent content in Categories on KZ的个人有志</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 06 Apr 2020 06:44:10 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2020 07:10:22 +0800</lastBuildDate>
     
 	<atom:link href="https://kelvinzhao.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>E.能量</title>
+      <link>https://kelvinzhao.me/categories/e.%E8%83%BD%E9%87%8F/</link>
+      <pubDate>Wed, 08 Apr 2020 07:10:22 +0800</pubDate>
+      
+      <guid>https://kelvinzhao.me/categories/e.%E8%83%BD%E9%87%8F/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>R.读书</title>
@@ -35,15 +44,6 @@
       <pubDate>Fri, 03 Apr 2020 06:22:18 +0800</pubDate>
       
       <guid>https://kelvinzhao.me/categories/l.%E5%AD%A6%E4%B9%A0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E.能量</title>
-      <link>https://kelvinzhao.me/categories/e.%E8%83%BD%E9%87%8F/</link>
-      <pubDate>Sat, 28 Mar 2020 06:36:41 +0800</pubDate>
-      
-      <guid>https://kelvinzhao.me/categories/e.%E8%83%BD%E9%87%8F/</guid>
       <description></description>
     </item>
     
