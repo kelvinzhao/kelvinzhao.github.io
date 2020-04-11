@@ -6,10 +6,34 @@
     <description>Recent content in 随笔 on KZ的个人有志</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Mar 2020 19:15:02 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2020 19:40:07 +0800</lastBuildDate>
     
 	<atom:link href="https://kelvinzhao.me/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>微调 Jane 主题样式</title>
+      <link>https://kelvinzhao.me/post/2020041119-new-style/</link>
+      <pubDate>Sat, 11 Apr 2020 19:40:07 +0800</pubDate>
+      
+      <guid>https://kelvinzhao.me/post/2020041119-new-style/</guid>
+      <description>&lt;p&gt;凭着十几年前记事本写 html 的「功力」，今天花了半天时间微调了样式，包括：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;首页 nav bar 高度微调、页面宽度微调；&lt;/li&gt;
+&lt;li&gt;首页 post 条目的样式、背景颜色；&lt;/li&gt;
+&lt;li&gt;文章 title、subtitle 及相关 margin 和 padding 的微调；&lt;/li&gt;
+&lt;li&gt;文章 toc 的样式；&lt;/li&gt;
+&lt;li&gt;全局字号大小、行间距、字体颜色微调；&lt;/li&gt;
+&lt;li&gt;分页去掉了左侧 padding，这回分页按钮居中了；&lt;/li&gt;
+&lt;li&gt;归档、分类列表页的 item 样式改回了原主题 even 的样式；&lt;/li&gt;
+&lt;li&gt;改小了首页 social link 的 svg 图标，RSS 图标错位实在改不好了，就拿掉，改成文字放下一行了。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;现在的样式看着顺眼多了，之所以我这水平也能改 css，主要还是归功于 hugo 的即时预览功能，这个 feature 简直不要太方便！&lt;/p&gt;
+
+&lt;p&gt;另外把 Jane 主题的几个 sample 放了回来，打算回头再研究下跟 markdown 有关的样式。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Github pages 疑似遭遇中间人攻击</title>
