@@ -10,14 +10,28 @@
   
   <url>
     <loc>https://kelvinzhao.me/categories/</loc>
-    <lastmod>2020-04-11T19:40:07+08:00</lastmod>
+    <lastmod>2020-04-15T06:42:49+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinzhao.me/categories/m.%E6%80%9D%E7%BB%B4/</loc>
+    <lastmod>2020-04-15T06:42:49+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kelvinzhao.me/post/</loc>
-    <lastmod>2020-04-11T19:40:07+08:00</lastmod>
+    <lastmod>2020-04-15T06:42:49+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinzhao.me/post/2020041506-disagreement-with-family/</loc>
+    <lastmod>2020-04-15T06:42:49+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -186,13 +200,6 @@
   <url>
     <loc>https://kelvinzhao.me/post/2020031906-what-do-i-write-when-nothing-to-write/</loc>
     <lastmod>2020-03-21T06:50:17+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/categories/m.%E6%80%9D%E7%BB%B4/</loc>
-    <lastmod>2020-03-17T06:02:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
