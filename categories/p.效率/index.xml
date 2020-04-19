@@ -17,9 +17,20 @@
       <pubDate>Mon, 16 Mar 2020 06:13:47 +0800</pubDate>
       
       <guid>https://kelvinzhao.me/post/00004-202003-howto-fight-procrastination/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/procrastination.jpg&#34; alt=&#34;拖延症&#34; /&gt;&lt;/p&gt;
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/procrastination.jpg&#34; alt=&#34;Photo:iStock&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/procrastination.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Photo:iStock&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Photo:iStock&lt;/p&gt;
 
 &lt;p&gt;在看过了&lt;a href=&#34;https://www.amazon.cn/dp/B01MDOUCWE/&#34;&gt;《学习之道》&lt;/a&gt;这本书以及完成Coursera上的课程“&lt;a href=&#34;https://www.coursera.org/learn/ruhe-xuexi&#34;&gt;Learn How to Learn&lt;/a&gt;”之后（作者和讲师都是芭芭拉·奥克利），结合个人体会总结了几点战胜拖延症的诀窍。理论上应该适用于生活、学习和工作各方面。&lt;/p&gt;</description>
     </item>

@@ -113,9 +113,20 @@
       
       <guid>https://kelvinzhao.me/post/2020040807-beauty-in-epidemic/</guid>
       
-        <description>&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/beauty-epidemic-unsplash.jpg&#34; alt=&#34;生活中的美好&#34; /&gt;&lt;/p&gt;
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/beauty-epidemic-unsplash.jpg&#34; alt=&#34;Photo by Masaaki Komori on Unsplash&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/beauty-epidemic-unsplash.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Photo by Masaaki Komori on Unsplash&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@gaspanik?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Masaaki Komori&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/s/photos/life-beauty?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;每个人对「美好」的定义是不同的，特别是在这个特殊时期，似乎无论如何都谈不上「美好」这个词，前线的医务人员在奋战，普通百姓在居家隔离，病者痛苦，医者忙碌。&lt;/p&gt;
 
@@ -341,7 +352,17 @@
       
       <guid>https://kelvinzhao.me/post/2020033106-yanzhan/</guid>
       
-        <description>&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/yanzhan-cover.jpg&#34; alt=&#34;延展：释放有限资源的无限潜能&#34; /&gt;&lt;/p&gt;
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/yanzhan-cover.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/yanzhan-cover.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;Author: 斯科特·索南沙因&lt;/p&gt;
 
@@ -388,7 +409,18 @@
       
         <description>&lt;p&gt;今晨冥想感悟，急书如下。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/meditation_notes.jpeg&#34; alt=&#34;notes&#34; /&gt;&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/meditation_notes.jpeg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/meditation_notes.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;冥想，meditation，心智和思维的锻炼活动。&lt;/p&gt;
 
@@ -411,9 +443,20 @@
       
       <guid>https://kelvinzhao.me/post/2020032206-my-morning-routine/</guid>
       
-        <description>&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/toa-heftiba-7MYJbEfc5kU-unsplash.jpg&#34; alt=&#34;morning&#34; /&gt;&lt;/p&gt;
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/toa-heftiba-7MYJbEfc5kU-unsplash.jpg&#34; alt=&#34;Photo by Toa Heftiba on Unsplash&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/toa-heftiba-7MYJbEfc5kU-unsplash.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Photo by Toa Heftiba on Unsplash&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@heftiba?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Toa Heftiba&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/s/photos/morning-routine?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;去年此时，当我瘦下来之后，我开始设计并执行自己的morning routine，一年过后，我觉得是时候该总结一下我的心得了。（关于我是如何在4个月内减掉22kg的故事，未来我会单写一篇文字）&lt;/p&gt;
 
@@ -540,7 +583,17 @@
       
       <guid>https://kelvinzhao.me/post/2020032619-github-ssl/</guid>
       
-        <description>&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/github_https_v2ex.png&#34; alt=&#34;SSL无效证书&#34; /&gt;&lt;/p&gt;
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/github_https_v2ex.png&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/github_https_v2ex.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;今天突然发现Chrome无法浏览此 Blog 了，发现证书出了问题，如上图一样。刚开始自己的 Blog 生涯就出现这个事件真是不可思议呀～赶紧去看了一下 &lt;a href=&#34;xianmin.org&#34;&gt;xianmin.org&lt;/a&gt; ，结果和我一样，google了一下，在v2ex上已经看到&lt;a href=&#34;https://www.v2ex.com/t/656367&#34;&gt;有人讨论了&lt;/a&gt;。&lt;/p&gt;
 
@@ -578,9 +631,20 @@
       
       <guid>https://kelvinzhao.me/post/2020031906-what-do-i-write-when-nothing-to-write/</guid>
       
-        <description>&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/green-chameleon-writing-unsplash-medium.jpg&#34; alt=&#34;Photo by Green Chameleon on Unsplash&#34; /&gt;&lt;/p&gt;
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/green-chameleon-writing-unsplash-medium.jpg&#34; alt=&#34;Photo by Green Chameleon on Unsplash&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/green-chameleon-writing-unsplash-medium.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Photo by Green Chameleon on Unsplash&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@craftedbygc?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Green Chameleon&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/s/photos/writing?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;没有什么波澜的状态下（一天），要写些什么？&lt;/p&gt;
 
@@ -623,7 +687,17 @@
       
       <guid>https://kelvinzhao.me/post/00005-202003-howto-distinguish-truth-or-rumor/</guid>
       
-        <description>&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/truth-post-truth.jpeg&#34; alt=&#34;Post truthe&#34; /&gt;&lt;/p&gt;
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/truth-post-truth.jpeg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/truth-post-truth.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;随着自媒体的蓬勃发展，后真相时代已经来临，真相的确认时间一再延后，甚至某些事情我们可能都已经忘记了，但真相似乎还没有出现，例如：&lt;a href=&#34;https://china.huanqiu.com/article/9CaKrnKpfhB&#34;&gt;这个&lt;/a&gt;。而当真相与谣言等大量信息扑面而来的时候，作为普通人，我们应当怎么做？&lt;/p&gt;
 
@@ -647,9 +721,20 @@
       
       <guid>https://kelvinzhao.me/post/00004-202003-howto-fight-procrastination/</guid>
       
-        <description>&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/procrastination.jpg&#34; alt=&#34;拖延症&#34; /&gt;&lt;/p&gt;
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/procrastination.jpg&#34; alt=&#34;Photo:iStock&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/procrastination.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Photo:iStock&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Photo:iStock&lt;/p&gt;
 
 &lt;p&gt;在看过了&lt;a href=&#34;https://www.amazon.cn/dp/B01MDOUCWE/&#34;&gt;《学习之道》&lt;/a&gt;这本书以及完成Coursera上的课程“&lt;a href=&#34;https://www.coursera.org/learn/ruhe-xuexi&#34;&gt;Learn How to Learn&lt;/a&gt;”之后（作者和讲师都是芭芭拉·奥克利），结合个人体会总结了几点战胜拖延症的诀窍。理论上应该适用于生活、学习和工作各方面。&lt;/p&gt;
 
@@ -708,7 +793,17 @@
       
       <guid>https://kelvinzhao.me/post/00002-202003-shanchawenjudian/</guid>
       
-        <description>&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/shanchawenjudian-cover.jpg&#34; alt=&#34;温暖治愈的日本文学&#34; /&gt;&lt;/p&gt;
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/shanchawenjudian-cover.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/shanchawenjudian-cover.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;Author: [日] 小川糸&lt;/p&gt;
 
@@ -784,7 +879,19 @@
       
       <guid>https://kelvinzhao.me/post/00003-201911-rendequanjing/</guid>
       
-        <description>&lt;p&gt;Author: 池宇峰&lt;/p&gt;
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/rendequanjing.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/rendequanjing.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Author: 池宇峰&lt;/p&gt;
 
 &lt;p&gt;Link: &lt;a href=&#34;https://book.douban.com/subject/34846515/&#34;&gt;https://book.douban.com/subject/34846515/&lt;/a&gt;&lt;/p&gt;
 

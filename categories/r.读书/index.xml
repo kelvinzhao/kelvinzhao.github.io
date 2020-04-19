@@ -36,7 +36,17 @@
       <pubDate>Tue, 31 Mar 2020 06:03:10 +0800</pubDate>
       
       <guid>https://kelvinzhao.me/post/2020033106-yanzhan/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/yanzhan-cover.jpg&#34; alt=&#34;延展：释放有限资源的无限潜能&#34; /&gt;&lt;/p&gt;
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/yanzhan-cover.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/yanzhan-cover.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;Author: 斯科特·索南沙因&lt;/p&gt;
 
@@ -57,7 +67,17 @@
       <pubDate>Thu, 12 Mar 2020 20:25:40 +0800</pubDate>
       
       <guid>https://kelvinzhao.me/post/00002-202003-shanchawenjudian/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/shanchawenjudian-cover.jpg&#34; alt=&#34;温暖治愈的日本文学&#34; /&gt;&lt;/p&gt;
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/shanchawenjudian-cover.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/shanchawenjudian-cover.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;Author: [日] 小川糸&lt;/p&gt;
 
@@ -78,7 +98,19 @@
       <pubDate>Sun, 24 Nov 2019 17:00:00 +0800</pubDate>
       
       <guid>https://kelvinzhao.me/post/00003-201911-rendequanjing/</guid>
-      <description>&lt;p&gt;Author: 池宇峰&lt;/p&gt;
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/rendequanjing.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/rendequanjing.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Author: 池宇峰&lt;/p&gt;
 
 &lt;p&gt;Link: &lt;a href=&#34;https://book.douban.com/subject/34846515/&#34;&gt;https://book.douban.com/subject/34846515/&lt;/a&gt;&lt;/p&gt;
 

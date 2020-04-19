@@ -17,9 +17,20 @@
       <pubDate>Fri, 27 Mar 2020 19:17:06 +0800</pubDate>
       
       <guid>https://kelvinzhao.me/post/2020032206-my-morning-routine/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/toa-heftiba-7MYJbEfc5kU-unsplash.jpg&#34; alt=&#34;morning&#34; /&gt;&lt;/p&gt;
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/toa-heftiba-7MYJbEfc5kU-unsplash.jpg&#34; alt=&#34;Photo by Toa Heftiba on Unsplash&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/toa-heftiba-7MYJbEfc5kU-unsplash.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Photo by Toa Heftiba on Unsplash&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@heftiba?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Toa Heftiba&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/s/photos/morning-routine?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;去年此时，当我瘦下来之后，我开始设计并执行自己的morning routine，一年过后，我觉得是时候该总结一下我的心得了。（关于我是如何在4个月内减掉22kg的故事，未来我会单写一篇文字）&lt;/p&gt;
 
