@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>随笔 on KZ的个人有志</title>
-    <link>https://kelvinzhao.me/categories/%E9%9A%8F%E7%AC%94/</link>
-    <description>Recent content in 随笔 on KZ的个人有志</description>
+    <title>远程办公 on KZ的个人有志</title>
+    <link>https://kelvinzhao.me/tags/%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC/</link>
+    <description>Recent content in 远程办公 on KZ的个人有志</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 24 Apr 2020 08:48:42 +0800</lastBuildDate>
     
-	<atom:link href="https://kelvinzhao.me/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kelvinzhao.me/tags/%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -79,72 +79,6 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;疫情尚未结束，生活仍在继续。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>微调 Jane 主题样式</title>
-      <link>https://kelvinzhao.me/post/2020041119-new-style/</link>
-      <pubDate>Sat, 11 Apr 2020 19:40:07 +0800</pubDate>
-      
-      <guid>https://kelvinzhao.me/post/2020041119-new-style/</guid>
-      <description>&lt;p&gt;凭着十几年前记事本写 html 的「功力」，今天花了半天时间微调了样式，包括：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;首页 nav bar 高度微调、页面宽度微调；&lt;/li&gt;
-&lt;li&gt;首页 post 条目的样式、背景颜色；&lt;/li&gt;
-&lt;li&gt;文章 title、subtitle 及相关 margin 和 padding 的微调；&lt;/li&gt;
-&lt;li&gt;文章 toc 的样式；&lt;/li&gt;
-&lt;li&gt;全局字号大小、行间距、字体颜色微调；&lt;/li&gt;
-&lt;li&gt;分页去掉了左侧 padding，这回分页按钮居中了；&lt;/li&gt;
-&lt;li&gt;归档、分类列表页的 item 样式改回了原主题 even 的样式；&lt;/li&gt;
-&lt;li&gt;改小了首页 social link 的 svg 图标，RSS 图标错位实在改不好了，就拿掉，改成文字放下一行了。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;现在的样式看着顺眼多了，之所以我这水平也能改 css，主要还是归功于 hugo 的即时预览功能，这个 feature 简直不要太方便！&lt;/p&gt;
-
-&lt;p&gt;另外把 Jane 主题的几个 sample 放了回来，打算回头再研究下跟 markdown 有关的样式。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Github pages 疑似遭遇中间人攻击</title>
-      <link>https://kelvinzhao.me/post/2020032619-github-ssl/</link>
-      <pubDate>Thu, 26 Mar 2020 19:15:02 +0800</pubDate>
-      
-      <guid>https://kelvinzhao.me/post/2020032619-github-ssl/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
-&lt;div class=&#34;box&#34;&gt;
-&lt;figure  itemprop=&#34;associatedMedia&#34;
-  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/github_https_v2ex.png&#34; /&gt;
-    &lt;/div&gt;
-    &lt;a href=&#34;https://kelvinzhao.me/image/github_https_v2ex.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>没有什么可写的时候我写什么</title>
-      <link>https://kelvinzhao.me/post/2020031906-what-do-i-write-when-nothing-to-write/</link>
-      <pubDate>Thu, 19 Mar 2020 06:29:17 +0800</pubDate>
-      
-      <guid>https://kelvinzhao.me/post/2020031906-what-do-i-write-when-nothing-to-write/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
-&lt;div class=&#34;box&#34;&gt;
-&lt;figure  itemprop=&#34;associatedMedia&#34;
-  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/green-chameleon-writing-unsplash-medium.jpg&#34; alt=&#34;Photo by Green Chameleon on Unsplash&#34;/&gt;
-    &lt;/div&gt;
-    &lt;a href=&#34;https://kelvinzhao.me/image/green-chameleon-writing-unsplash-medium.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-      &lt;figcaption&gt;
-          &lt;p&gt;Photo by Green Chameleon on Unsplash&lt;/p&gt;
-      &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;没有什么波澜的状态下（一天），要写些什么？&lt;/p&gt;</description>
     </item>
     
   </channel>
