@@ -6,10 +6,34 @@
     <description>Recent content in Posts on KZ的个人有志</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 10 May 2020 06:45:15 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 11:04:46 +0800</lastBuildDate>
     
 	<atom:link href="https://kelvinzhao.me/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>瘦书第二弹：《延展》</title>
+      <link>https://kelvinzhao.me/post/2020051211-2ndthinbook/</link>
+      <pubDate>Tue, 12 May 2020 11:04:46 +0800</pubDate>
+      
+      <guid>https://kelvinzhao.me/post/2020051211-2ndthinbook/</guid>
+      <description>&lt;p&gt;终于终于，第二本「瘦书」终于发布了，斯科特·索南沙因的《延展》，项目地址：&lt;a href=&#34;https://github.com/kelvinzhao/Thinbooks&#34;&gt;https://github.com/kelvinzhao/Thinbooks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;这次历时比较久，大概用了一个多月的时间。因为：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;「工作」忙了，搬回到自己家中，负责一日三餐&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;li&gt;《延展》这本书17万字的规模，着实量有些大，而且梳理精简内容需要更费心思。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这次精简幅度没有第一本瘦书——《好好思考》那么大，大概50%吧，吸取上次纯手打累残的教训，这次用「白描」App辅助文字识别，再导出txt通过坚果云同步到电脑上进行编辑。真的很感谢白描的开发者，文档扫描类的应用至今尚无出右者。至少我认为白描是最好用的，一次性拍照30多页书，一键文字扫描，一键导出txt，相当给力。白描官网是：&lt;a href=&#34;https://baimiao.uzero.cn/&#34;&gt;https://baimiao.uzero.cn/&lt;/a&gt; ，请大家支持支持。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://kelvinzhao.me/image/baimiao.png&#34; alt=&#34;baimiao&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;原来考虑这个项目的初衷就是给自己找点事做，但发现，「编辑」这个职业还真不是那么容易做的，码字、梳理、筛选、润色、校对，目前只有我自己在做&amp;hellip;&amp;hellip;，目前也没有收到过任何反馈，不知道自己的成果质量如何，也许还没有很多人路过这里吧，哈哈。不过还是很有成就感的。下一本书「瘦」哪本还没想好，再看看吧。&lt;/p&gt;
+
+&lt;p&gt;虽然手依然很疼，但还是需要给自己鼓个梨，加油！&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>母亲节快乐</title>
@@ -416,16 +440,6 @@
       <guid>https://kelvinzhao.me/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://kelvinzhao.me/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kelvinzhao.me/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
     </item>
     
   </channel>
