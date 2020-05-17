@@ -10,21 +10,42 @@
   
   <url>
     <loc>https://kelvinzhao.me/categories/</loc>
-    <lastmod>2020-05-12T11:04:46+08:00</lastmod>
+    <lastmod>2020-05-17T10:42:05+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinzhao.me/categories/l.%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2020-05-17T10:42:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kelvinzhao.me/post/</loc>
-    <lastmod>2020-05-12T11:04:46+08:00</lastmod>
+    <lastmod>2020-05-17T10:42:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kelvinzhao.me/tags/</loc>
-    <lastmod>2020-05-12T11:04:46+08:00</lastmod>
+    <lastmod>2020-05-17T10:42:05+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinzhao.me/post/2020051710-machinelearning-done/</loc>
+    <lastmod>2020-05-17T10:42:05+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinzhao.me/tags/%E8%87%AA%E5%AD%A6%E6%88%90%E6%89%8D/</loc>
+    <lastmod>2020-05-17T10:42:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -172,13 +193,6 @@
   <url>
     <loc>https://kelvinzhao.me/post/2020040519-1st-thinbook/</loc>
     <lastmod>2020-04-05T19:30:11+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/categories/l.%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2020-04-03T06:22:18+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

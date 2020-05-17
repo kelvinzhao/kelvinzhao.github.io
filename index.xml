@@ -30,6 +30,33 @@
     </item>
     
     <item>
+      <title>完成了Machine Learning入门课程</title>
+      <link>https://kelvinzhao.me/post/2020051710-machinelearning-done/</link>
+      <pubDate>Sun, 17 May 2020 10:42:05 +0800</pubDate>
+      
+      <guid>https://kelvinzhao.me/post/2020051710-machinelearning-done/</guid>
+      
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/machinelearning-done.png&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/machinelearning-done.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;2020年3月2日，趁着居家隔离，一时异想天开地想自学一些技术，于是一番搜索之后，决定学些Python玩玩，以前还有一些perl的底子，而且脚本型的语言入门容易。方向嘛就选择了数据科学，一方面的确因为好玩，另外也想从「数据科学」的角度增加一些理解这个社会的能力。Coursera上吴恩达的这门评分高达4.9的机器学习入门课程成了我的首选。经过两个半月的学习，终于告一段落了。成绩98分~。&lt;/p&gt;
+
+&lt;p&gt;对课程我就不多评价了，经典就是经典，吴恩达的授课风格让人很舒服，完全没有高高在上的感觉，课程中老师始终给予学生信心，激励学生继续学下去，哪怕线性代数已经忘光了。在Coursera上学习是一种很不错的体验，没那么多「知识付费」的智商税课程，反观国内在线学习的翘楚——网易公开课，一股浓浓的韭菜味弥漫其中。在线学习生态这方面，底蕴和理念非常重要，国内高校及互联网机构需要走的路还很长。&lt;/p&gt;
+
+&lt;p&gt;接下来，我的计划是先用Python复习一遍ML课程，然后继续学习Python爬虫、数据分析。虽然最近空闲时间不多了，但我还是有信心能够坚持下去。加油！&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>瘦书第二弹：《延展》</title>
       <link>https://kelvinzhao.me/post/2020051211-2ndthinbook/</link>
       <pubDate>Tue, 12 May 2020 11:04:46 +0800</pubDate>
@@ -987,45 +1014,6 @@
 &lt;p&gt;何谓“反向思维”？，即不去纠结如何做，而是着手考虑不做什么。例如，想“减肥”？不要纠结怎么减掉体脂肪，而应该反过来想想，什么样的饮食习惯及生活习惯会不增加脂肪。这样的思路会更加安全、健康，也更具操作性。&lt;/p&gt;
 
 &lt;p&gt;这是我的第一篇文章，没有仔细准备过，只是有感而发的小文，以此纪念2020年我开始写博客。&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>【读书】人的全景</title>
-      <link>https://kelvinzhao.me/post/00003-201911-rendequanjing/</link>
-      <pubDate>Sun, 24 Nov 2019 17:00:00 +0800</pubDate>
-      
-      <guid>https://kelvinzhao.me/post/00003-201911-rendequanjing/</guid>
-      
-        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
-&lt;div class=&#34;box&#34;&gt;
-&lt;figure  itemprop=&#34;associatedMedia&#34;
-  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/rendequanjing.jpg&#34; /&gt;
-    &lt;/div&gt;
-    &lt;a href=&#34;https://kelvinzhao.me/image/rendequanjing.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;Author: 池宇峰&lt;/p&gt;
-
-&lt;p&gt;Link: &lt;a href=&#34;https://book.douban.com/subject/34846515/&#34;&gt;https://book.douban.com/subject/34846515/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Publisher: 中信出版集团&lt;/p&gt;
-
-&lt;p&gt;Publishing/Release Date: Sep 01, 2019&lt;/p&gt;
-
-&lt;p&gt;Score /5: ⭐️⭐️⭐️⭐️&lt;/p&gt;
-
-&lt;h3 id=&#34;书评&#34;&gt;书评&lt;/h3&gt;
-
-&lt;p&gt;第一时间拿到了池总的签名书——《人的全景》，一个半月之后才看完，因为书中有太多值得我思考和学习的内容了。可以说这是一本很神奇的书，池总通过平衡态、弹簧人、比较器等简单的概念，却能生动、准确地剖析出人行为模式的背后规律及内在逻辑，让我大开眼界；而这又是一本长者实践经验的传承之书，池总无私的将多年创业过程中的实战经验通过一整套循序渐进的思维体操，向我们描述了职场发展中不同阶段所将遇到的问题，以及与之对应行之有效的解决之道。&lt;/p&gt;
-
-&lt;p&gt;在阅读本书的过程中，随着池总的文字，仿佛能将大脑中的下意识形态进行冷静解析，将平时我们认为再正常不过的行为一一进行分拣、解析，然后居然发现，在我们自认为理智选择和理性行为的背后，深藏着那么多与生俱来的思维陷阱，而识别出它们，正是我们提高、进步的先决条件。而同时本书又告诫我们，自己看自己总是盲目的，按池总的话说，自查无错是终极不可避免的，即我们的行为、判断在常规条件下都是基于自身有限的经验价值清单，往往我们会沉浸在迷雾般的自我意识中，无法有效的进行反省。而池总总结的经验和实践方法，正是为我们树立起一面面思维上“正衣冠”的镜子，让我们有机会从已有的思维惯性中跳脱出来，通过镜子观察自己、复盘自己，从而持续改进、形成进步。&lt;/p&gt;
-
-&lt;p&gt;在工作中，我们鲜有自我批判和复盘的机会，大多数情形下我们往往会强调外部因素对自身行为的影响，而经常忽略对内在思维模式的自省，纵观个人多年的工作经历亦是如此。通过《人的全景》不但可以帮助自己突破思维的局限性，也可帮助团队整体提升。&lt;/p&gt;</description>
       
     </item>
     

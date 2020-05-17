@@ -6,10 +6,28 @@
     <description>Recent content in Posts on KZ的个人有志</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 12 May 2020 11:04:46 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2020 10:42:05 +0800</lastBuildDate>
     
 	<atom:link href="https://kelvinzhao.me/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>完成了Machine Learning入门课程</title>
+      <link>https://kelvinzhao.me/post/2020051710-machinelearning-done/</link>
+      <pubDate>Sun, 17 May 2020 10:42:05 +0800</pubDate>
+      
+      <guid>https://kelvinzhao.me/post/2020051710-machinelearning-done/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/machinelearning-done.png&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/machinelearning-done.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>瘦书第二弹：《延展》</title>
@@ -430,16 +448,6 @@
 &lt;p&gt;Publishing/Release Date: Sep 01, 2019&lt;/p&gt;
 
 &lt;p&gt;Score /5: ⭐️⭐️⭐️⭐️&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://kelvinzhao.me/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kelvinzhao.me/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
   </channel>
