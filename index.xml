@@ -30,6 +30,63 @@
     </item>
     
     <item>
+      <title>小升初 - 呵呵</title>
+      <link>https://kelvinzhao.me/post/2020052608-xiaoshengchu/</link>
+      <pubDate>Tue, 26 May 2020 08:40:18 +0800</pubDate>
+      
+      <guid>https://kelvinzhao.me/post/2020052608-xiaoshengchu/</guid>
+      
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/xiaoshengchu-bug.jpeg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/xiaoshengchu-bug.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;2020年这个疫情年，在神兽即将回笼之际，仓促间迎来了无与伦比的「小升初」。&lt;/p&gt;
+
+&lt;p&gt;常言道，海潮退去后，才知道谁是光着的，而这次疫情暴露出来的是，原来教委们都没穿裤衩。&lt;/p&gt;
+
+&lt;h4 id=&#34;先说网课&#34;&gt;先说网课&lt;/h4&gt;
+
+&lt;p&gt;疫情没发生之前的几年，随着各种政策文件的出台，又是十年发展规划，又是教育信息化2.0，外加2019年北京市教育行业超1600亿的财政投资，得到了什么？&lt;/p&gt;
+
+&lt;p&gt;得到的是，很多中小学的信息化建设依然停留在办公OA层面，除了教委大一统的学籍管理之外，什么都没有，曾经火过N年的三通两平台，以及“微课”、“幕课”，在疫情这个照妖镜下现了原形，什么信息化系统都赶不上微信、企业微信、腾讯会议、微信群会议、ZOOM、钉钉，关键时刻还是要靠企业平台顶着，那每年都要投入的信息化建设在哪里呢？于是，我们看到各大网络运营商平台以及电视平台上线的微课，所谓停课不停学。可是，连我家孩子都在纳闷，为什么刚开始上网课的时候每天只有两个视频，后来怎么越来越多呢？从网上老师们发布的消息可以看出，有多少老师复工后在编辑着本校的微课，连带着还要承担市级平台的微课制作任务，这就容易理解了，为啥刚开始的时候微课这么少，因为还没做出来呢！那平时所谓「资源平台」的建设成果哪里去了？疫情大潮过后，有人会追问吗？&lt;/p&gt;
+
+&lt;p&gt;反正我是没抱着任何希望，对中国的教育体制，我只有「呵呵」两个字。&lt;/p&gt;
+
+&lt;h4 id=&#34;再说小升初&#34;&gt;再说小升初&lt;/h4&gt;
+
+&lt;p&gt;不免俗的，一样加入了N个小升初的家长群，经历过的家长都知道，国内聚焦小升初的就那么几家，平时家长们都在群里互通有无，时不时再蹦出几个专家来分析一下政策、给家长们出出主意，信息不对称导致畸形的体制催生出畸形的行业，畸形的价值观催生出焦虑的家长，家长们一边喊着爱国，一边郁闷着抱怨看不懂的政策，一边掂量着手里的几个钱想着是挤破头皮拼公办的运气呢，还是咬咬牙试一下民办？&lt;/p&gt;
+
+&lt;p&gt;今年所谓「公民统招」，公办校、民办校、寄宿、一般校统统摇号。我就说我厉害国行政智慧了得，难言之隐，一「摇」了之。小汽车保有量太高怎么办？摇号购车！房价过高过热怎么办？摇号买房！教育资源不均衡怎么办？摇号升学！以前都说「你行你上」，这我也敢说，只要会摇号，我行我也敢上！&lt;/p&gt;
+
+&lt;p&gt;具体政策不多说了。但看似公平的摇号机制，依然存在着「猫腻」，对比往年数据可以看出，各校拿出摇号的名额远不够往年招生名额，那么多出来的名额哪里去了？公平？「呵呵」，牌坊还是要立的，其余的该怎么办怎么办。P民不用操那个心。&lt;/p&gt;
+
+&lt;h4 id=&#34;体制内的2b程序员&#34;&gt;体制内的2B程序员&lt;/h4&gt;
+
+&lt;p&gt;好，我老老实实当P民行吧？&lt;/p&gt;
+
+&lt;p&gt;今天5月26日，朝阳区一批志愿填报，尼玛登录页面上一个大大的DIV挡住用户信息输入框，这是作死吗？（见题图）家长们炸了锅，官方平台的系统都出这问题，摇号系统如何保证公平？&lt;/p&gt;
+
+&lt;p&gt;事业单位的程序员水平堪忧啊，就不说登录进去之后那种没有CSS的提交页面了，感觉回到了上个世纪html刚流行的年代。&lt;/p&gt;
+
+&lt;p&gt;好心想提醒一下教委，400技术支持电话无人接听，因为7点半人家还没上班呢～～&lt;/p&gt;
+
+&lt;p&gt;还有报名流程上的各种疑问点，教委的反应可谓慢的要死，朝阳学校资料在报名当天才放出来，外区本区学校录取冲突怎么办等问题至今没有答案，原来教委是想和这批家长一起摸着石头过河呀，是不是坑一批学生也不影响您什么政绩？&lt;/p&gt;
+
+&lt;p&gt;好了，迅速吐槽后心情好了很多。还要继续盯着小升初直到摇号出结果，孩子能否去到心仪的学校，这次真的是拼运气了。&lt;/p&gt;
+
+&lt;p&gt;记录下此刻的心情，日后看看理想是否能成真。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>完成了Machine Learning入门课程</title>
       <link>https://kelvinzhao.me/post/2020051710-machinelearning-done/</link>
       <pubDate>Sun, 17 May 2020 10:42:05 +0800</pubDate>
@@ -980,40 +1037,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;书评写的不咋滴，文字太匮乏了，自己都不太满意，不过该发的还是要发出去，不走出这一步，以后也没法进步，加油吧！&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>如何选择合适的饮食方式</title>
-      <link>https://kelvinzhao.me/post/00001-202003-how-to-deal-heathy-advice/</link>
-      <pubDate>Wed, 11 Mar 2020 21:02:16 +0800</pubDate>
-      
-      <guid>https://kelvinzhao.me/post/00001-202003-how-to-deal-heathy-advice/</guid>
-      
-        <description>&lt;p&gt;网上各方专家的意见相左，饮食建议到底听谁的？&lt;/p&gt;
-
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
-&lt;div class=&#34;box&#34;&gt;
-&lt;figure  itemprop=&#34;associatedMedia&#34;
-  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://miro.medium.com/max/1600/1*lh4Gg1A-Gcsy9jG7yn5dDA.jpeg&#34; /&gt;
-    &lt;/div&gt;
-    &lt;a href=&#34;https://miro.medium.com/max/1600/1*lh4Gg1A-Gcsy9jG7yn5dDA.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-      &lt;figcaption&gt;
-          &lt;p&gt;Low carb and keto diets are popular, but the science is in: They aren’t safe. | Image: Wesual Click&lt;/p&gt;
-      &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;最近又在Medium上看到一篇文章，&lt;a href=&#34;https://medium.com/@KristenHovet/researchers-say-no-to-low-carb-and-keto-diets-233dfeb1f427&#34;&gt;Researchers Say No to Low Carb and Keto Diets&lt;/a&gt;。大意是低碳饮食不安全。&lt;/p&gt;
-
-&lt;p&gt;姑且不论这篇文章的观点是否正确，当下在网上可以发现国内外健康类的专家或者研究机构都在试图通过各种实验数据来证明某种饮食“好”还是“不好”，例如地中海饮食、生酮饮食、RAW Food饮食等等。背后无疑存在着各种利益动机，例如企业利益、国家利益、研究机构利益等，这些阴谋论的东西也无需去证明有或者无。最近两年我个人通过减肥的经历，也在网上查看了大量的资料，试图找到适合自己的饮食方式。从中，我发现很多研究报告的统计结果并不令我满意，我觉得很多实验并不能令我信服，例如很多实验中样本的数量、复杂性及广泛的差异性会降低数据的统计价值。参与实验样本的基因差异、运动习惯、病史、食品质量、心理健康等众多因素似乎没有也无法被准确的纳入到统计计算当中。因此，这些通过统计学得出的各种结论理论上都是带有先天的缺陷的，我认为都不靠谱。作为独特的个体，我认为，我们无需严格遵从那些网络上的那些饮食指南，而是应当学习和吸收正确的营养及生理知识，理解我们的消化系统是如何运行的，三大营养素是如何被吸收的，以及身体相关激素的作用以及触发条件等基础知识，通过这些知识，结合反向思维，制订自己的行为计划，并观察自己的身体反应进行调整。对于自己的身体，除了你自己，没有任何人应当更加了解。&lt;/p&gt;
-
-&lt;p&gt;何谓“反向思维”？，即不去纠结如何做，而是着手考虑不做什么。例如，想“减肥”？不要纠结怎么减掉体脂肪，而应该反过来想想，什么样的饮食习惯及生活习惯会不增加脂肪。这样的思路会更加安全、健康，也更具操作性。&lt;/p&gt;
-
-&lt;p&gt;这是我的第一篇文章，没有仔细准备过，只是有感而发的小文，以此纪念2020年我开始写博客。&lt;/p&gt;</description>
       
     </item>
     
