@@ -9,22 +9,43 @@
   </url>
   
   <url>
+    <loc>https://kelvinzhao.me/post/2020070615-halfyear2020/</loc>
+    <lastmod>2020-07-06T15:52:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://kelvinzhao.me/categories/</loc>
-    <lastmod>2020-06-18T14:28:57+08:00</lastmod>
+    <lastmod>2020-07-06T15:52:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kelvinzhao.me/post/</loc>
-    <lastmod>2020-06-18T14:28:57+08:00</lastmod>
+    <lastmod>2020-07-06T15:52:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kelvinzhao.me/tags/</loc>
-    <lastmod>2020-06-18T14:28:57+08:00</lastmod>
+    <lastmod>2020-07-06T15:52:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinzhao.me/tags/%E5%B9%B4%E4%B8%AD%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2020-07-06T15:52:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinzhao.me/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2020-07-06T15:52:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,13 +59,6 @@
   
   <url>
     <loc>https://kelvinzhao.me/tags/%E6%95%99%E8%82%B2/</loc>
-    <lastmod>2020-06-18T14:28:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinzhao.me/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2020-06-18T14:28:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
