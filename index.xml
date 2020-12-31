@@ -6,7 +6,7 @@
     <description>Recent content on KZ的个人有志</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Dec 2020 19:35:58 +0800</lastBuildDate>
     
         <atom:link href="https://kelvinzhao.me/index.xml" rel="self" type="application/rss+xml" />
     
@@ -26,6 +26,58 @@
 
 &lt;p&gt;我的邮箱是 kzhao#kelvinzhao.me 欢迎骚扰～&lt;/p&gt;
 </description>
+      
+    </item>
+    
+    <item>
+      <title>2020年终总结</title>
+      <link>https://kelvinzhao.me/post/2020123119-1231/</link>
+      <pubDate>Thu, 31 Dec 2020 19:35:58 +0800</pubDate>
+      
+      <guid>https://kelvinzhao.me/post/2020123119-1231/</guid>
+      
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/2020ends.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://kelvinzhao.me/image/2020ends.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@macroman?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Immo Wegmann&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/s/photos/2020?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2020年至此，已经完成了▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 99.9%&lt;/p&gt;
+
+&lt;p&gt;2020年最后一天，寻思着怎么也得写点东西才行吧。这狗日的一年实在有够糟心，国际上、国内、个人都发生了很多事，公司的业务也被疫情拖了许久，虽说希望仍在，但步履蹒跚依然坚持前行。&lt;/p&gt;
+
+&lt;p&gt;这一年绝大多数时间都是在家里度过的，公司业务远程办公即可，毕竟去一趟公司要开一个小时的车，也是蛮烧油的。&lt;/p&gt;
+
+&lt;p&gt;年初的计划当中仅完成一半，&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;机器学习：完成了Coursera上的吴恩达ML课程。&lt;/li&gt;
+&lt;li&gt;Python学习：学习了Python基础，并学习爬虫和Scrapy框架，做了一个微博热搜爬虫，正在每天爬着，为以后学习积累些数据。&lt;/li&gt;
+&lt;li&gt;读50本书：仅达到及格水平，正好读完30本。&lt;/li&gt;
+&lt;li&gt;写作：实在懒得要命，完全不及格，个人的“瘦书”项目进展缓慢，也是因为管理类和心理类的书才可“瘦”，而这方面的书今年读的不多，“瘦书”计划依然会进行，但我不会特意找书，随缘吧，遇到内容还不错但是啰里八嗦的就给它瘦身一下。&lt;/li&gt;
+&lt;li&gt;给孩子做一个印刷版画集，因为疫情，也懒得跑印刷社了，回头补吧&lt;/li&gt;
+&lt;li&gt;要说今年收获最大的，还是养成了健身的好习惯，每周四天有氧跳绳，其余时间坚持在家自重训练，身材虽然体脂变化不大，但感觉比以前强壮不少。&lt;/li&gt;
+&lt;li&gt;这一年有了更多的时间观察国内外，悲观的说，越发对国内失望，因此更加坚定了孩子留日的决心，接下来遇到最大的问题还是钱的问题，攒学费的任务很艰辛啊。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;明年计划不做那么多了，免得到了年底又难看～：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;搞定公司最大的项目，再开发2个大客户&lt;/li&gt;
+&lt;li&gt;融资完成&lt;/li&gt;
+&lt;li&gt;50本书&lt;/li&gt;
+&lt;li&gt;孩子的画集&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;2020虽然即将结束，但实际上这种状态可能依然要影响到2021年上半年，不管世事如何，唯愿家人朋友身体康健。&lt;/p&gt;</description>
       
     </item>
     
@@ -979,62 +1031,6 @@
 &lt;li&gt;不墙，应该会加强审查，酸酸乳、cn-nytime之类的项目是不可能再存在的。&lt;/li&gt;
 &lt;li&gt;墙，启用&lt;a href=&#34;https://www.huaweicloud.com/product/codehub.html&#34;&gt;华为CodeHub&lt;/a&gt;，毕竟华为近期表现出的「未雨绸缪」还是很有预见性的，大家哭吧哭吧，大局域网内所有源码对内开源。&lt;/li&gt;
 &lt;/ol&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>没有什么可写的时候我写什么</title>
-      <link>https://kelvinzhao.me/post/2020031906-what-do-i-write-when-nothing-to-write/</link>
-      <pubDate>Thu, 19 Mar 2020 06:29:17 +0800</pubDate>
-      
-      <guid>https://kelvinzhao.me/post/2020031906-what-do-i-write-when-nothing-to-write/</guid>
-      
-        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kelvinzhao.me/css/hugo-easy-gallery.css&#34; /&gt;
-&lt;div class=&#34;box&#34;&gt;
-&lt;figure  itemprop=&#34;associatedMedia&#34;
-  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kelvinzhao.me/image/green-chameleon-writing-unsplash-medium.jpg&#34; alt=&#34;Photo by Green Chameleon on Unsplash&#34;/&gt;
-    &lt;/div&gt;
-    &lt;a href=&#34;https://kelvinzhao.me/image/green-chameleon-writing-unsplash-medium.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-      &lt;figcaption&gt;
-          &lt;p&gt;Photo by Green Chameleon on Unsplash&lt;/p&gt;
-      &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;没有什么波澜的状态下（一天），要写些什么？&lt;/p&gt;
-
-&lt;p&gt;我担心什么：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;生活日志式的流水账不好看&lt;/li&gt;
-&lt;li&gt;事先没构思，不知道写什么&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;怎么办？&lt;/p&gt;
-
-&lt;p&gt;内心强调，写作这件事为什么会成为今年的目标，我的目的是什么，我要成为什么样的人，写作对于这个目标意味着什么。这其实就是从心理层面上加深写作这件事的意识深度，避免由于担心、恐慌等情绪因素导致拖延症。&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;为了锻炼，硬着头皮也要写。归入拖延症范畴，Just Do It&lt;/li&gt;
-&lt;li&gt;为了不散，还是要临时拟一个主题，ps是不是要看一些写作方面的书籍呀？（电子书即可）&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;2020-3-21 06:32 update:&lt;/p&gt;
-
-&lt;p&gt;最后，写作的确也是件任务极重的任务，目前“赋闲”在家，每天大概可用于写作的时间通常是在我晨起冥想之后到家人和孩子都起床，这段时间大概可以有一个半到两个小时，如何充分利用好这段时间很重要。&lt;/p&gt;
-
-&lt;p&gt;另外，我真的希望以流水账的形式或者“意识流”方式写作吗？Julia Cameron在她的书&lt;a href=&#34;https://amzn.to/2Tf4V3o&#34;&gt;&lt;em&gt;The Artist’s Way&lt;/em&gt;&lt;/a&gt;中提倡每天stream-of-consciousness writing。但这种方式真的对“写作”能力本身有帮助吗？&lt;/p&gt;
-
-&lt;p&gt;最近正在看James Clear的*&lt;a href=&#34;https://www.amazon.com/Atomic-Habits-James-Clear/dp/1847941834/&#34;&gt;Atomic Habits&lt;/a&gt;*，作者的写作计划是每周一和每周四各发布一篇博文，这种方式应该不是意识流吧，而是真正打草稿、修饰、编辑过的正式文章。&lt;/p&gt;
-
-&lt;p&gt;目前我的写作刚刚开始，每天早上都能够写出一些东西来还是有难度的，所以我决定使用James Clear的频率，每周po出两篇，从而使我个人有时间进行选题、写作和编辑。&lt;/p&gt;
-
-&lt;p&gt;（今天是周日，就当做是周一的这一篇吧）&lt;/p&gt;</description>
       
     </item>
     
